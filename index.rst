@@ -2,8 +2,6 @@
 .. footer:: 
 .. favicon:: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/briefcase_1f4bc.png
 
-Andriushchenko
-==============
 
 Arsenii Andriushchenko
 -----------------------
