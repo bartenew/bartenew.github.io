@@ -2,6 +2,7 @@
 .. footer:: 
 .. favicon:: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/briefcase_1f4bc.png
 
+
   .. div:: lead
 
       Infrastructure Software Engineer | Ann Arbor, MI | Remote | arseniyandru@gmail.com | `LinkedIn <https://www.linkedin.com/in/arseniyandru/>`_
