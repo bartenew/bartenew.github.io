@@ -6,7 +6,7 @@ author = "Arsenii Andriushchenko"
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-    "myst_parser",  # optional, allows Markdown if you ever add md files
+    # "myst_parser",  # optional, allows Markdown if you ever add md files
 ]
 
 templates_path = ["_templates"]
