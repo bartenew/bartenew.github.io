@@ -12,6 +12,7 @@ and experienced in airline industry domains. Fluent in Java, Python, Kubernetes
 orchestration, and a wide range of backend and frontend technologies.
 Flexible and always willing to learn new skills.
 
+
 Skills
 ------
 AWS, CloudFormation, Kubernetes, Helm, GitLab CI, Terraform, Java, Spring Boot,
