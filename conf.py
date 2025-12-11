@@ -30,14 +30,9 @@ html_favicon = (
     "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/"
     "thumbs/120/microsoft/209/briefcase_1f4bc.png"
 )
+html_permalinks_icon = '<span>#</span>'
+html_theme = 'sphinxawesome_theme'
 
-# Clean up navigation and extra UI elements
-html_theme_options = {
-    "sidebar_hide_name": True,
-    "navigation_with_keys": False,
-    "light_logo": None,
-    "dark_logo": None,
-}
 
 # Don't show "view source"
 html_show_sourcelink = False
