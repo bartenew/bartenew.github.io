@@ -27,10 +27,7 @@ html_static_path = ["_static"]
 html_css_files = ["resume.css"]
 
 # Favicon (your briefcase emoji)
-html_favicon = (
-    "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/"
-    "thumbs/120/microsoft/209/briefcase_1f4bc.png"
-)
+html_favicon = "https://media.licdn.com/dms/image/v2/D5603AQE6qLJAzvXdZg/profile-displayphoto-shrink_200_200/B56ZVzs98XGoAY-/0/1741402924236?e=1767225600&v=beta&t=O1uInGkMDfw-BdKOhemrFHk0RWuAjXCejyfrDg6NtGs"
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
 

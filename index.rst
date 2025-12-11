@@ -1,6 +1,5 @@
 .. title:: Andriushchenko
-.. footer:: 
-.. favicon:: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/briefcase_1f4bc.png
+
 
 About
 -----
@@ -18,6 +17,7 @@ Skills
 :bdg:`AWS` :bdg:`CloudFormation` :bdg:`Kubernetes` :bdg:`Helm` :bdg:`GitLab CI` :bdg:`Terraform`
 :bdg:`Java` :bdg:`Spring Boot` :bdg:`DevOps` :bdg:`Grafana` :bdg:`Gradle` :bdg:`Jenkins`
 :bdg:`ELK stack` :bdg:`Python` :bdg:`Docker` :bdg:`Ruby`
+
 
 Work Experience
 ---------------
@@ -55,6 +55,7 @@ Developing GitOps deployment platform for crew scheduling.
 *Feb 2015 – Jun 2017*
 
 - Delivered high-impact software solutions for the airline industry.
+
 
 Projects
 --------
