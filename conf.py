@@ -6,7 +6,7 @@ author = "Arsenii Andriushchenko"
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-    "sphinx-design"
+    "sphinx_design"
 ]
 
 templates_path = ["_templates"]
