@@ -2,15 +2,15 @@
 .. footer:: 
 .. favicon:: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/briefcase_1f4bc.png
 
-.. div:: lead
+  .. div:: lead
 
-Infrastructure Software Engineer | Ann Arbor, MI | Remote | arseniyandru@gmail.com | `LinkedIn <https://www.linkedin.com/in/arseniyandru/>`_
-
-A full-stack SWE with 9+ years of experience, including backend apps, cloud platforms,
-and developer tooling. Knowledgeable in the AWS ecosystem, CloudFormation, Terraform,
-and experienced in airline industry domains. Fluent in Java, Python, Kubernetes
-orchestration, and a wide range of backend and frontend technologies.
-Flexible and always willing to learn new skills.
+    Infrastructure Software Engineer | Ann Arbor, MI | Remote | arseniyandru@gmail.com | `LinkedIn <https://www.linkedin.com/in/arseniyandru/>`_
+    
+    A full-stack SWE with 9+ years of experience, including backend apps, cloud platforms,
+    and developer tooling. Knowledgeable in the AWS ecosystem, CloudFormation, Terraform,
+    and experienced in airline industry domains. Fluent in Java, Python, Kubernetes
+    orchestration, and a wide range of backend and frontend technologies.
+    Flexible and always willing to learn new skills.
 
 Skills
 ------
