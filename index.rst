@@ -15,8 +15,9 @@ Flexible and always willing to learn new skills.
 
 Skills
 ------
-AWS, CloudFormation, Kubernetes, Helm, GitLab CI, Terraform, Java, Spring Boot,
-DevOps, Grafana, Gradle, Jenkins, ELK stack, Python, Docker, Ruby.
+:bdg:`AWS` :bdg:`CloudFormation` :bdg:`Kubernetes` :bdg:`Helm` :bdg:`GitLab CI` :bdg:`Terraform`
+:bdg:`Java` :bdg:`Spring Boot` :bdg:`DevOps` :bdg:`Grafana` :bdg:`Gradle` :bdg:`Jenkins`
+:bdg:`ELK stack` :bdg:`Python` :bdg:`Docker` :bdg:`Ruby`
 
 Work Experience
 ---------------

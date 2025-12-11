@@ -38,7 +38,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt || true
-          pip install sphinx sphinxawesome-theme
 
       - name: Build Sphinx HTML
         run: |
