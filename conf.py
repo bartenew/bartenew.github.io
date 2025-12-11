@@ -24,6 +24,7 @@ html_title = "Arsenii Andriushchenko – Resume"
 
 # Optional folders
 html_static_path = ["_static"]
+html_css_files = ["resume.css"]
 
 # Favicon (your briefcase emoji)
 html_favicon = (
